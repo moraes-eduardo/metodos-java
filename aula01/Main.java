@@ -1,4 +1,4 @@
-package exemplos;
+package aula01;
 /**
  * Classe principal dos exercícios da Aula 1 de Métodos.
  */
